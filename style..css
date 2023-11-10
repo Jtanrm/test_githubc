@@ -2,3 +2,12 @@ h1 {
 
     color: blue; background-color: aqua; 
 }
+#miBoton {
+    padding: 10px 20px;  /* Ajusta el relleno del botón */
+    font-size: 16px;    /* Ajusta el tamaño del texto del botón */
+    background-color: #594caf91;  /* Color de fondo del botón */
+    color: white;       /* Color del texto del botón */
+    border: none;       /* Elimina el borde del botón */
+    border-radius: 5px;  /* Agrega bordes redondeados al botón */
+    cursor: pointer;    /* Cambia el cursor al pasar sobre el botón */
+}
