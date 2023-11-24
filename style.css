@@ -2,14 +2,14 @@
 
 
 body {
-    /* Cambia la URL con la ubicación de tu imagen de fondo */
+    
     /* background-image: url('https://firebasestorage.googleapis.com/v0/b/xhotto-d02a8.appspot.com/o/musical-notes-uhd-4k-wallpaper..jpg?alt=media&token=5cb89432-d2cd-4a1c-a77f-7109c5dbe97b'); */
-    /* Establece un color de fondo en caso de que la imagen no se cargue o no esté disponible */
+   
     background-color: #e09d5e;
-    /* Ajusta el tamaño y la posición de la imagen de fondo según tus necesidades */
+    
     background-size: cover;
     background-position: center;
-    /* Evita que la imagen de fondo se repita */
+ 
     background-repeat: no-repeat;
 }
 
